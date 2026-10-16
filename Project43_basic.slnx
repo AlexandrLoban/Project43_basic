@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project43_basic/Project43_basic.vcxproj" />
+  <Project Path="task02/task02.vcxproj" />
+</Solution>
