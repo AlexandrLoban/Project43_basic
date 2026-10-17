@@ -7,6 +7,7 @@ void test(string expected, string test_name) {
 	for (int i = 0; i < number; i++) {
 		if (detect_mood() == expected) {
 			flag = true;
+			break;
 		}
 
 	}
